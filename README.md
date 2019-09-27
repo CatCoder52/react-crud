@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+-Material design CSS
+_Custom Design & Effect
+-Notification
+-Browser Cookies
+-REACT
 
 ## Available Scripts
 
